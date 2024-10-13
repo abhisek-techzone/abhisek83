@@ -9,23 +9,27 @@ list_student = [
     
     {
      id:1,
-     name:'John',
-     grade:'A'
+     'name':'John',
+     'grade':'A'
      
      },
     
     {
      id:2,
-     name:'Merry',
-     grade:'A'
+     'name':'Merry',
+     'grade':'A'
      
      },
     
     {
      id:2,
-     name:'Nancy',
-     grade:'B'
+     'name':'Nancy',
+     'grade':'B'
      
      }
     
     ]
+
+
+print(list_student)
+
